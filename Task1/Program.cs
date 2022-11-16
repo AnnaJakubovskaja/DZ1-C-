@@ -23,5 +23,5 @@ if(b<min) min=b;
 
 
 
-Console.Write(max+">");
+Console.Write(max+" > ");
 Console.WriteLine(min);
